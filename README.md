@@ -1,5 +1,5 @@
 # Instacart_python
-Data Foundry Data Analytics portfolio project. Instacart a online grocery store that is used through an app is looking to learn more about customers purchasing behaviors to identify a marketing plan.
+Data Analytics portfolio project. Instacart a online grocery store that is used through an app is looking to learn more about customers purchasing behaviors to identify a marketing plan.
 ## Objective
 We have been tasked to perform an initial data and exploratory analysis of data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The idea is to learn about a variety of customers at Instacart and their purchasing behaviors to develop a targeted marketing strategy.
 ## Data
