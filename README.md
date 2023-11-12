@@ -1,7 +1,7 @@
-# Instacart_python
-Data Analytics portfolio project. Instacart a online grocery store that is used through an app is looking to learn more about customers purchasing behaviors to identify a marketing plan.
+# BI Analysis Instacart
+Using Python for exploratory analysis of business data.
 ## Objective
-We have been tasked to perform an initial data and exploratory analysis of data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The idea is to learn about a variety of customers at Instacart and their purchasing behaviors to develop a targeted marketing strategy.
+The project aims to perform an initial data and exploratory analysis of [Instacart](https://www.instacart.com/) sales and customer data in order to derive insights and suggest strategies for better segmentation and customer profiling based on the provided criteria.
 ## Data
 We were provided with datasets that contained all the customer information:
 - Orders
